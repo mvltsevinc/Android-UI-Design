@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="340.328" height="16" viewBox="0 0 340.328 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M338.667-26.667h16.667A2.667,2.667,0,0,1,358-24v6h0a2.667,2.667,0,0,1-2.667,2.667H338.667A2.667,2.667,0,0,1,336-18v-6h0A2.667,2.667,0,0,1,338.667-26.667Z" transform="translate(0 44)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Shape-2" data-name="Shape" d="M359-23v4a2.17,2.17,0,0,0,1.328-2A2.17,2.17,0,0,0,359-23" transform="translate(0 44)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Shape-3" data-name="Shape" d="M339.333-24.667h15.333A1.333,1.333,0,0,1,356-23.333v4.667h0a1.333,1.333,0,0,1-1.333,1.333H339.333A1.333,1.333,0,0,1,338-18.667v-4.667h0A1.333,1.333,0,0,1,339.333-24.667Z" transform="translate(0 44)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Shape-4" data-name="Shape" d="M323.33-24.392a8.64,8.64,0,0,1,5.953,2.378.308.308,0,0,0,.433,0l1.156-1.167a.322.322,0,0,0,.093-.229.322.322,0,0,0-.1-.227,10.9,10.9,0,0,0-15.08,0,.322.322,0,0,0-.1.227.322.322,0,0,0,.093.229l1.156,1.167a.308.308,0,0,0,.433,0,8.641,8.641,0,0,1,5.954-2.378Zm0,3.8a4.907,4.907,0,0,1,3.294,1.27.31.31,0,0,0,.433-.006l1.155-1.167a.322.322,0,0,0,.094-.23.322.322,0,0,0-.1-.229,7.159,7.159,0,0,0-9.752,0,.322.322,0,0,0-.1.229.322.322,0,0,0,.094.23l1.154,1.167a.31.31,0,0,0,.433.006,4.907,4.907,0,0,1,3.292-1.27Zm2.219,2.784a.314.314,0,0,0,.094-.231.314.314,0,0,0-.1-.226,3.422,3.422,0,0,0-4.419,0,.314.314,0,0,0-.1.226.314.314,0,0,0,.094.231l2,2.016a.311.311,0,0,0,.222.093.312.312,0,0,0,.222-.093Z" transform="translate(0 44)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Shape-5" data-name="Shape" d="M294.667-19.667h1a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1h-1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1Zm4.667-2h1a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1h-1a1,1,0,0,1-1-1v-4A1,1,0,0,1,299.333-21.667ZM304-24h1a1,1,0,0,1,1,1v6.333a1,1,0,0,1-1,1h-1a1,1,0,0,1-1-1V-23A1,1,0,0,1,304-24Zm4.667-2.333h1a1,1,0,0,1,1,1v8.667a1,1,0,0,1-1,1h-1a1,1,0,0,1-1-1v-8.667a1,1,0,0,1,1-1Z" transform="translate(0 44)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Status_Bar" data-name="Status Bar" transform="translate(-20 -15)">
+    <g id="status_bar_light" data-name="status bar/light" transform="translate(-13 -80)">
+      <g id="Battery" transform="translate(13 80)">
+        <g id="Border" clip-path="url(#clip-path)">
+          <path id="Fill" d="M2.667,0H19.333A2.667,2.667,0,0,1,22,2.667v6h0a2.667,2.667,0,0,1-2.667,2.667H2.667A2.667,2.667,0,0,1,0,8.667v-6H0A2.667,2.667,0,0,1,2.667,0Z" transform="translate(336 17.333)" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="2"/>
+        </g>
+        <g id="Cap" clip-path="url(#clip-path-2)">
+          <path id="Fill-2" data-name="Fill" d="M354-28h11.328v14H354Z" transform="translate(0 44)" fill="rgba(255,255,255,0.4)"/>
+        </g>
+        <g id="Capacity" clip-path="url(#clip-path-3)">
+          <path id="Fill-3" data-name="Fill" d="M333-29.667h28v17.333H333Z" transform="translate(0 44)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Wifi" transform="translate(13 80)">
+        <g id="Wifi-2" data-name="Wifi" clip-path="url(#clip-path-4)">
+          <path id="Fill-4" data-name="Fill" d="M310.694-31.669h25.272V-10.7H310.694Z" transform="translate(0 44)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Cellular_Connection" data-name="Cellular Connection" transform="translate(13 80)">
+        <g id="Cellular_Connection-2" data-name="Cellular Connection" clip-path="url(#clip-path-5)">
+          <path id="Fill-5" data-name="Fill" d="M288.667-31.333h27v20.667h-27Z" transform="translate(0 44)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Bars___Time_Black" data-name="Bars/_/Time Black" transform="translate(4 80)">
+        <path id="Background" d="M21-19H75V-35H21Z" transform="translate(8 50)" fill="none"/>
+        <path id="_Time" data-name="↳ Time" d="M16.433,13.239c2.509,0,4-1.962,4-5.284a6.336,6.336,0,0,0-.7-3.117A3.5,3.5,0,0,0,16.487,2.89a3.43,3.43,0,0,0-3.664,3.466A3.159,3.159,0,0,0,16.07,9.637,2.727,2.727,0,0,0,18.627,8.16h.116c0,2.256-.854,3.6-2.3,3.6a1.716,1.716,0,0,1-1.729-1.21H12.96A3.324,3.324,0,0,0,16.433,13.239Zm.062-5A1.865,1.865,0,0,1,14.553,6.3a1.948,1.948,0,1,1,3.9.027A1.874,1.874,0,0,1,16.494,8.235Zm7.038,3.719a1.08,1.08,0,1,0-1.094-1.08A1.048,1.048,0,0,0,23.532,11.954Zm0-5.127a1.043,1.043,0,0,0,1.094-1.073,1.094,1.094,0,0,0-2.187,0A1.047,1.047,0,0,0,23.532,6.827ZM31.445,13h1.688V11.161h1.333V9.671H33.134V3.136H30.646c-1.743,2.625-3.131,4.819-4.02,6.453v1.572h4.819ZM28.26,9.609c1.148-2.023,2.174-3.644,3.117-5.038h.1V9.712H28.26ZM38.511,13h1.764V3.136H38.518L35.94,4.94v1.7l2.454-1.723h.116Z" transform="translate(29 17)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
